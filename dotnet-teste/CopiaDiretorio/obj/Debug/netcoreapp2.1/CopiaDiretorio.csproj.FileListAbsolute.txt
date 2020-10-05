@@ -1,0 +1,11 @@
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.deps.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.runtimeconfig.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.runtimeconfig.dev.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.pdb
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.csprojAssemblyReference.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.AssemblyInfoInputs.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.AssemblyInfo.cs
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\CopiaDiretorio\obj\Debug\netcoreapp2.1\CopiaDiretorio.pdb

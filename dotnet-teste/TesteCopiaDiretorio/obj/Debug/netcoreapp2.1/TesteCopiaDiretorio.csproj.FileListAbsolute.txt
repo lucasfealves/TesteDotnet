@@ -1,0 +1,17 @@
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\TesteCopiaDiretorio.deps.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\TesteCopiaDiretorio.runtimeconfig.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\TesteCopiaDiretorio.runtimeconfig.dev.json
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\TesteCopiaDiretorio.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\TesteCopiaDiretorio.pdb
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\bin\Debug\netcoreapp2.1\CopiaDiretorio.pdb
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.csprojAssemblyReference.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.AssemblyInfoInputs.cache
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.AssemblyInfo.cs
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.csproj.CopyComplete
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.dll
+C:\Users\Lucas\git\TesteAdilson\dotnet-teste\TesteCopiaDiretorio\obj\Debug\netcoreapp2.1\TesteCopiaDiretorio.pdb
